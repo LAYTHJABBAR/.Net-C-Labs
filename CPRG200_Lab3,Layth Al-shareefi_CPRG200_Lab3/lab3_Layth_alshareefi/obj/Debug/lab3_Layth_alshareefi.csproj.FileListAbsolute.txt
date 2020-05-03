@@ -1,0 +1,10 @@
+C:\Users\lenovo y700\source\repos\lab3_Layth_alshareefi\lab3_Layth_alshareefi\bin\Debug\lab3_Layth_alshareefi.exe.config
+C:\Users\lenovo y700\source\repos\lab3_Layth_alshareefi\lab3_Layth_alshareefi\bin\Debug\lab3_Layth_alshareefi.exe
+C:\Users\lenovo y700\source\repos\lab3_Layth_alshareefi\lab3_Layth_alshareefi\bin\Debug\lab3_Layth_alshareefi.pdb
+C:\Users\lenovo y700\source\repos\lab3_Layth_alshareefi\lab3_Layth_alshareefi\obj\Debug\lab3_Layth_alshareefi.csprojAssemblyReference.cache
+C:\Users\lenovo y700\source\repos\lab3_Layth_alshareefi\lab3_Layth_alshareefi\obj\Debug\lab3_Layth_alshareefi.Form1.resources
+C:\Users\lenovo y700\source\repos\lab3_Layth_alshareefi\lab3_Layth_alshareefi\obj\Debug\lab3_Layth_alshareefi.Properties.Resources.resources
+C:\Users\lenovo y700\source\repos\lab3_Layth_alshareefi\lab3_Layth_alshareefi\obj\Debug\lab3_Layth_alshareefi.csproj.GenerateResource.cache
+C:\Users\lenovo y700\source\repos\lab3_Layth_alshareefi\lab3_Layth_alshareefi\obj\Debug\lab3_Layth_alshareefi.csproj.CoreCompileInputs.cache
+C:\Users\lenovo y700\source\repos\lab3_Layth_alshareefi\lab3_Layth_alshareefi\obj\Debug\lab3_Layth_alshareefi.exe
+C:\Users\lenovo y700\source\repos\lab3_Layth_alshareefi\lab3_Layth_alshareefi\obj\Debug\lab3_Layth_alshareefi.pdb
